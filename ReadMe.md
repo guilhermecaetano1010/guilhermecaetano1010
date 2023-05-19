@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Olá! Eu sou o Guilherme Caetano<br><br>- 🔭 Estou a procura de emprego.<br>- 🌱 Estudando para ser Desenvolvedor Full-Stack e Engenheiro de Computação. <br>- 📫 Contrate-me no email: guilherme.caetano1010@gmail.com<br>
+### Olá! Eu sou o Guilherme Caetano<br><br>- 🔭 Estou a procura de emprego.<br>- 🌱 Estudando Desenvolvimento Full-Stack e Engenharia de Computação. <br>- 📫 Contrate-me no email: guilherme.caetano1010@gmail.com<br>
 
 
 ## 🌐 Socials:
