@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Olá! Eu sou o Guilherme Caetano<br><br>- 🔭 Estou a procura de emprego.<br>- 🌱 Estou estudando para ser desenvolvedor Full-Stack Java e Engenheiro de Computação. <br>- 📫 Contrate-me no email: guilherme.caetano1010@gmail.com<br>- 😄 Pronome: ele/dele
+### Olá! Eu sou o Guilherme Caetano<br><br>- 🔭 Estou a procura de emprego.<br>- 🌱 Estudando para ser desenvolvedor Full-Stack Java e Engenheiro de Computação. <br>- 📫 Contrate-me no email: guilherme.caetano1010@gmail.com<br>- 😄 Pronome: ele/dele
 
 
 ## 🌐 Socials:
