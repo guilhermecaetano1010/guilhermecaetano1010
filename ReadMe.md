@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 Desenvolvimento Full-Stack e Engenharia de Computação.<br>- 📫 Contrate-me no email: guilherme.caetano1010@gmail.com
+ -🌱 Desenvolvimento Full-Stack e Engenharia de Computação.<br>- 📫 Contrate-me no email: guilherme.caetano1010@gmail.com
 
 
 ## 🌐 Socials:
