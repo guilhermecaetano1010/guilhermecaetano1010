@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecaetano1010&layout=donut&theme=tokyonight)
 
 ---
-<a href="https://github.com/guilhermecaetano1010"><img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermecaetano1010&bg_color=15161F&color=ffffff&line=9974C2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/guilhermecaetano1010"><img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermecaetano1010&bg_color=15161F&color=ffffff&line=9974C2&point=ffffff&area_color=171717&area=true&border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=guilhermecaetano1010&icon=0&color=0)](https://visitcount.itsvg.in)
 
