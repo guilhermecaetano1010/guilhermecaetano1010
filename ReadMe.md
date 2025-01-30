@@ -21,10 +21,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecaetano1010&layout=donut&theme=tokyonight)
 
 ---
+
+<img src="https://raw.githubusercontent.com/anabcodes/anabcodes/output/snake.svg" alt="Snake animation" />
+
+---
 <a href="https://github.com/guilhermecaetano1010"><img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermecaetano1010&bg_color=15161F&color=ffffff&line=38bdae&point=ffffff&area_color=171717&area=true&border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=guilhermecaetano1010&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/anabcodes/anabcodes/output/snake.svg" alt="Snake animation" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=38bdae&section=footer" />
